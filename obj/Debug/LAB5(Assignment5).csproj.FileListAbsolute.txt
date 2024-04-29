@@ -1,0 +1,10 @@
+C:\Users\Abdudrahman\Desktop\4th-Sem\LAB5(Assignment5)\bin\Debug\LAB5(Assignment5).exe.config
+C:\Users\Abdudrahman\Desktop\4th-Sem\LAB5(Assignment5)\bin\Debug\LAB5(Assignment5).exe
+C:\Users\Abdudrahman\Desktop\4th-Sem\LAB5(Assignment5)\bin\Debug\LAB5(Assignment5).pdb
+C:\Users\Abdudrahman\Desktop\4th-Sem\LAB5(Assignment5)\obj\Debug\LAB5(Assignment5).csproj.AssemblyReference.cache
+C:\Users\Abdudrahman\Desktop\4th-Sem\LAB5(Assignment5)\obj\Debug\LAB5_Assignment5_.Form1.resources
+C:\Users\Abdudrahman\Desktop\4th-Sem\LAB5(Assignment5)\obj\Debug\LAB5_Assignment5_.Properties.Resources.resources
+C:\Users\Abdudrahman\Desktop\4th-Sem\LAB5(Assignment5)\obj\Debug\LAB5(Assignment5).csproj.GenerateResource.cache
+C:\Users\Abdudrahman\Desktop\4th-Sem\LAB5(Assignment5)\obj\Debug\LAB5(Assignment5).csproj.CoreCompileInputs.cache
+C:\Users\Abdudrahman\Desktop\4th-Sem\LAB5(Assignment5)\obj\Debug\LAB5(Assignment5).exe
+C:\Users\Abdudrahman\Desktop\4th-Sem\LAB5(Assignment5)\obj\Debug\LAB5(Assignment5).pdb
